@@ -34,7 +34,9 @@ Press enter.
 
 References: 1. https://stackoverflow.com/questions/21104664/extract-all-bounding-boxes-using-opencv-python
 
-            2. https://stackoverflow.com/questions/60869306/how-to-simple-crop-the-bounding-box-in-python-opencv#:~:text=I%20figured%20it%20out%20the%20formula%20for%20cropping,print%20%28%5BX%2CY%2CW%2CH%5D%29%20plt.imshow%20%28cropped_image%29%20cv2.imwrite%20%28%27contour1.png%27%2C%20cropped_image%29%20Share
+            2.https://github.com/hualili/opencv/tree/master/deep-learning-2022s
+
+            3. https://stackoverflow.com/questions/60869306/how-to-simple-crop-the-bounding-box-in-python-opencv#:~:text=I%20figured%20it%20out%20the%20formula%20for%20cropping,print%20%28%5BX%2CY%2CW%2CH%5D%29%20plt.imshow%20%28cropped_image%29%20cv2.imwrite%20%28%27contour1.png%27%2C%20cropped_image%29%20Share
             
-            3.https://github.com/hualili/opencv/tree/master/deep-learning-2022s
+         
             
